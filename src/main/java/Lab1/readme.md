@@ -1,6 +1,6 @@
 - Hello World!
 
-![img.png](lab1_image_of_IntelliJ.png)
+![img.png](../../../../lab1_image_of_IntelliJ.png)
 
 # Lab1 Check List
 | Task                     | Status  |
