@@ -1,10 +1,12 @@
 - Hello World!
 
-# Assignment Check List
-| Task                     | Status      |
-|--------------------------|-------------|
-| Make this repo public    | Not yet     |
-| Create readme.md         | done        |
-| Writing readme           | In Progress |
-| Add screenshot to readme | Not yet     |
-| Submit the lab           | Not yet     |
+![img.png](lab1_image_of_IntelliJ.png)
+
+# Lab1 Check List
+| Task                     | Status  |
+|--------------------------|---------|
+| Make this repo public    | Not yet |
+| Create readme.md         | Done    |
+| Writing readme           | Done    |
+| Add screenshot to readme | Done    |
+| Submit the lab           | Not yet |
