@@ -7,6 +7,6 @@
 |--------------------------|--------|
 | Make this repo public    | Done   |
 | Create readme.md         | Done   |
-| Writing readme           | Done   |
+| Write readme             | Done   |
 | Add screenshot to readme | Done   |
 | Submit the lab           | Done   |
